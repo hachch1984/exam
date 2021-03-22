@@ -125,7 +125,7 @@ const App = () => {
 
         <div className='mt-3 d-flex justify-content-between align-items-center'>
 
-          <div> <span className='text-muted mr-3'>Developed by<br/>Henry Alberto Chavez Chavez</span>     </div>
+          <div className='mr-3'> <span className='text-muted mr-3'>Developed by:<br/>Henry Alberto Chavez Chavez  <br/><a href='https://github.com/hachch1984/exam'> GitHub </a>  </span>     </div>
           <img style={{borderRadius:'50%'}} src='https://avatars.githubusercontent.com/u/5782038?s=48&v=4' alt='developer' />
         </div>
 
